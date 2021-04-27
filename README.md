@@ -9,3 +9,13 @@
 - jeżeli po zakończeniu operacji jakieś pliki są jeszcze w katalogu ```SOURCE_DIR``` to wyświetlane zostają stosowne komunikaty;
 - ponadto wszystkie pliki w katalogu ```TARGET_DIR``` mają odebrane prawa do edycji;
 - na koniec katalog ```TARGET_DIR``` zostaje spakowany (nazwa: ```bakap_RRR-MM-DD.zip```).
+
+
+### Lab02
+
+**Co zostało zrealizowane?**
+-
+
+A tak prompt wygląda po zmianach:
+
+![env](https://user-images.githubusercontent.com/49610728/116263192-76be5a80-a779-11eb-801d-957a64c1dad2.png)
