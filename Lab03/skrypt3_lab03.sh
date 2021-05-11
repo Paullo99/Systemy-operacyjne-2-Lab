@@ -9,5 +9,5 @@ for FILE in ${GROOVIES_CONTENT}; do
     cat ./samples/groovies/${FILE} | sed -ri '/class/a String marker = "\/!@\$%\/"' ./samples/groovies/${FILE}
 
     # We wszystkich plikach w katalogu ‘groovies’ usuń linijki zawierające frazę 'Help docs:'
-    cat ./samples/groovies/${FILE} | sed -ri '/docs:/d' ./samples/groovies/${FILE}
+    cat ./samples/groovies/${FILE} | sed -ri '/Help docs/d' ./samples/groovies/${FILE}
 done
