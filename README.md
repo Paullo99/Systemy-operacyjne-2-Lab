@@ -19,3 +19,11 @@
 A tak prompt wygląda po zmianach:
 
 ![env](https://user-images.githubusercontent.com/49610728/116263192-76be5a80-a779-11eb-801d-957a64c1dad2.png)
+
+
+### Lab05
+
+**Co zostało zrealizowane?**
+- Napisana została aplikacja w Pythonie umożliwiająca grę w kółko i krzyżyk.
+- Użytkownik przed przystąpieniem do gry z komputerem wybiera, czy chce być X czy O.
+- Jakość sprawdzanego kodu poprzez PyLinta wynosi 10.0/10.0.
